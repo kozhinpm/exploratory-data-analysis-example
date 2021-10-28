@@ -7,7 +7,6 @@ author: "Kozhin PM"
 
 
 ```r
-#rm(list = ls())
 library(tidyverse)
 ```
 
