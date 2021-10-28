@@ -36,7 +36,7 @@ tops <- tibble(Top = "Top", Brand = top_brand_all, Category = top_category_all, 
 ```
 Cамый частотный бренд, категория, подкатегория
 ```{r}
-print(tops)
+print(tops) 
 ```
 ```{r}
 #переопределим функции с заданными аргументами по умолчанию для 25 и 75 процентиля
