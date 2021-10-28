@@ -1,9 +1,6 @@
 ---
 title: "exploratory analysis"
 author: "Kozhin PM"
-output:  
-  html_document:
-    keep_md: true
 ---
 
 
