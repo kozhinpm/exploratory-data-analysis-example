@@ -1,5 +1,5 @@
 ---
-title: "exploratory analysis"
+title: "exploratory analysis (in R)"
 author: "Kozhin PM"
 ---
 
